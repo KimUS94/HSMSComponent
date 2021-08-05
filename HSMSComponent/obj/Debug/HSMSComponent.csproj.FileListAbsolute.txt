@@ -1,0 +1,5 @@
+C:\Users\ISET-DA\Workplace\VisualStudio\HSMSComponent\HSMSComponent\bin\Debug\HSMSComponent.exe.config
+C:\Users\ISET-DA\Workplace\VisualStudio\HSMSComponent\HSMSComponent\bin\Debug\HSMSComponent.exe
+C:\Users\ISET-DA\Workplace\VisualStudio\HSMSComponent\HSMSComponent\bin\Debug\HSMSComponent.pdb
+C:\Users\ISET-DA\Workplace\VisualStudio\HSMSComponent\HSMSComponent\obj\Debug\HSMSComponent.exe
+C:\Users\ISET-DA\Workplace\VisualStudio\HSMSComponent\HSMSComponent\obj\Debug\HSMSComponent.pdb
